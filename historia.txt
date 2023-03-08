@@ -1,0 +1,7 @@
+este es un archivo de texto.
+
+nombr: Paul Espin
+edad: 42 
+Telecominicaciones,
+
+nuevo cambio
